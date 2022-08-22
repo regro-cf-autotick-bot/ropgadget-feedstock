@@ -1,5 +1,5 @@
 {% set name = "ropgadget" %}
-{% set version = "6.5" %}
+{% set version = "6.9" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/ROPGadget-{{ version }}.tar.gz
-  sha256: 4c0e56f2ba0aef13b2c8ca286aad663525b92020b11bacd16791f5236247905c
+  sha256: ab959e18edafd0eeb88801534544a79afc9f029e4f7ee9171011560754053289
 
 build:
   number: 0
