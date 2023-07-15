@@ -1,11 +1,11 @@
-About ropgadget
-===============
+About ropgadget-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/ropgadget-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/JonathanSalwan/ROPgadget
 
-Package license: BSD-2-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/ropgadget-feedstock/blob/main/LICENSE.txt)
+Package license: BSD-Protection
 
 Summary: This tool lets you search your gadgets on your binaries to facilitate your ROP exploitation.
 
@@ -13,11 +13,86 @@ Current build status
 ====================
 
 
-<table><tr><td>All platforms:</td>
+<table>
+    
+  <tr>
+    <td>Azure</td>
     <td>
-      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=11969&branchName=main">
-        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/ropgadget-feedstock?branchName=main">
-      </a>
+      <details>
+        <summary>
+          <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=11969&branchName=main">
+            <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/ropgadget-feedstock?branchName=main">
+          </a>
+        </summary>
+        <table>
+          <thead><tr><th>Variant</th><th>Status</th></tr></thead>
+          <tbody><tr>
+              <td>linux_64_python3.10.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=11969&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/ropgadget-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_python3.10.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_64_python3.8.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=11969&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/ropgadget-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_python3.8.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_64_python3.9.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=11969&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/ropgadget-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_python3.9.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_64_python3.10.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=11969&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/ropgadget-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_python3.10.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_64_python3.8.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=11969&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/ropgadget-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_python3.8.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_64_python3.9.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=11969&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/ropgadget-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_python3.9.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_python3.10.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=11969&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/ropgadget-feedstock?branchName=main&jobName=win&configuration=win%20win_64_python3.10.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_python3.8.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=11969&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/ropgadget-feedstock?branchName=main&jobName=win&configuration=win%20win_64_python3.8.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_python3.9.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=11969&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/ropgadget-feedstock?branchName=main&jobName=win&configuration=win%20win_64_python3.9.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </details>
     </td>
   </tr>
 </table>
